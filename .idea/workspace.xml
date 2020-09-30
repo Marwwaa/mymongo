@@ -19,18 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06fe7521-0655-4f19-a3c5-db56bb3c2818" name="Default Changelist" comment="" />
+    <list default="true" id="06fe7521-0655-4f19-a3c5-db56bb3c2818" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../aphrodite/.idea/aphrodite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aphrodite/.idea/aphrodite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aphrodite/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aphrodite/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aphrodite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aphrodite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravelSite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laravelSite/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../aphrodite" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -179,7 +189,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601281037136</updated>
-      <workItem from="1601281038230" duration="31243000" />
+      <workItem from="1601281038230" duration="35628000" />
+      <workItem from="1601375307340" duration="27477000" />
     </task>
     <servers />
   </component>
@@ -196,8 +207,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601385739824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601385739824" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1601364940046">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
